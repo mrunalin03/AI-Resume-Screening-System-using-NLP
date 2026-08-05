@@ -1,0 +1,45 @@
+AI/ML Engineer
+
+Job Description
+
+We are looking for a passionate AI/ML Engineer to join our growing team. The ideal candidate should have a strong foundation in Machine Learning, Python programming, and Natural Language Processing. The candidate will work on designing, developing, and deploying intelligent AI solutions for real-world business problems.
+
+Responsibilities
+
+- Build and train Machine Learning models
+- Perform data preprocessing and feature engineering
+- Develop NLP applications for text analytics
+- Work with structured and unstructured datasets
+- Evaluate and improve model performance
+- Collaborate with cross-functional teams
+- Deploy AI models for production use
+
+Required Skills
+
+- Python
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Scikit-learn
+- Pandas
+- NumPy
+- TensorFlow or PyTorch
+- SQL
+- Git
+- Data Analysis
+- Feature Engineering
+- Model Evaluation
+
+Preferred Skills
+
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+- Hugging Face
+- Vector Databases
+- Streamlit
+- Docker
+- FastAPI
+
+Education
+
+Bachelor's or Master's degree in Computer Science, Information Technology, Artificial Intelligence, or a related field.
